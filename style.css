@@ -19,3 +19,35 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.card{
+    box-shadow: 10px 10px 20px gray;
+}
+.card-footer{
+    background-color:white;
+    border-top:none;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+#contact{
+    height: 300px;
+}
